@@ -10,7 +10,7 @@ Responsive Landing Page
 
  Stopwatch web Application
 
- https://lovekitchahal.github.io/Prasunet_Tasks/
+ https://lovekitchahal.github.io/Prasunet_Tasks/prasunet_wd_02
 
  Task-03
 
