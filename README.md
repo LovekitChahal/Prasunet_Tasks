@@ -16,6 +16,6 @@ Responsive Landing Page
 
  Personal portfolio website
 
-  https://lovekitchahal.github.io/Prasunet_Tasks/
+  https://lovekitchahal.github.io/Prasunet_Tasks/portfolio.html
 
  
