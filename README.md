@@ -4,7 +4,7 @@ Task-01
 
 Responsive Landing Page
 
- https://lovekitchahal.github.io/Prasunet_Tasks/
+ https://lovekitchahal.github.io/Prasunet_Tasks/Prasunet_WD_01
 
  Task-02
 
